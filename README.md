@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://anasrafia.netlify.app/](https://anasrafia.netlify.app/)
 
-- 💬 Ask me about **React, Php, Python, C#, JS**
+- 💬 Ask me about **React js, Php, Laravel, Python, C#, JS, mongoDB, mySQL**
 
 - 📫 How to reach me **webtest532@gmail.com**
 
