@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anassrafia](https://github.com/anassrafia)
 
-- 📄 Know about my experiences [https://anasrafia..com/](https://anasrafia.site/)
+- 📄 Know about my experiences [https://anasrafia.com/](https://anasrafia.site/)
 
 - 💬 Ask me about **React js, Php, Laravel, Python, C#, JS, mongoDB, mySQL**
 
